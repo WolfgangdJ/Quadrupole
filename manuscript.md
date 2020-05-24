@@ -1,7 +1,10 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Wolfgang Schattke
+- Ricardo Díez Muíno
+- Michel van Hove
+- Thomas Frederiksen
+- Harald Eckstein
 bibliography:
 - content/manual-references.json
 date-meta: '2020-04-21'
@@ -93,7 +96,7 @@ manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: Center of Mass of an Hydrogen Molecule Embedded in an External Field
 ...
 
 
@@ -113,25 +116,25 @@ on April 21, 2020.
 
 
 
-+ **John Doe**<br>
++ **Wolfgang Schattke**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [https://orcid.org/0000-0003-2537-7886](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [johndoe](https://twitter.com/johndoe)<br>
   <small>
-     Department of Something, University of Whatever
+     Institut für Theoretische Physik und Astrophysik, Christian-Albrechts-Universität zu Kiel
      · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**<br>
++ **Ricardo Díez Muíno**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [https://orcid.org/0000-0001-8593-0327](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
     [janeroe](https://github.com/janeroe)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Donostia International Physics Center DIPC
   </small>
 
 
