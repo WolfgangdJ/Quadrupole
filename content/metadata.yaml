@@ -1,26 +1,26 @@
 ---
-title: "Manuscript Title"
+title: "H2 in Quadrupole"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Nanomechanics
+  - QMC
+  - H2
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: WolfgangdJ
+    name: Wolfang Schattke
+    initials: WS
+    orcid: 0000-0003-2537-7886
+    twitter:
+    email: wschattke@googlemail.com.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Institut für Theoretische Physik und Astrophysik, Christian-Albrechts-Univeryität zu Kiel
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
+      - Grant 
+  - github: harald
+    name: Harald Eckstein
+    initials: HE
     orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+    email: harald.eckstein@web.de
     affiliations:
       - Department of Something, University of Whatever
       - Department of Whatever, University of Something
