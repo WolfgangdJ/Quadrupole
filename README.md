@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/WolfgangdJ/Quadrupole/tree/gh-pages) branch hosts the contents of this directory at <https://WolfgangdJ.github.io/Quadrupole/>.
-The permalink for this webpage version is <https://WolfgangdJ.github.io/Quadrupole/v/146b99eb50e998ce46a168cd0251824c276f727f/>.
+The permalink for this webpage version is <https://WolfgangdJ.github.io/Quadrupole/v/6b227ee067dcd76e7754f130c34a604984e19dc9/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://WolfgangdJ.github.io/Quadrupole/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`146b99eb50e998ce46a168cd0251824c276f727f`](https://github.com/WolfgangdJ/Quadrupole/commit/146b99eb50e998ce46a168cd0251824c276f727f).
+[`6b227ee067dcd76e7754f130c34a604984e19dc9`](https://github.com/WolfgangdJ/Quadrupole/commit/6b227ee067dcd76e7754f130c34a604984e19dc9).
